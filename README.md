@@ -1,2 +1,2 @@
 # Spellchecker
-Created a spellchecker using a hash map.
+As a final project, created a spellchecker using a hash map.
